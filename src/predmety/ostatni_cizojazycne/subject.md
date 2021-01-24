@@ -1,10 +1,12 @@
-nazev = "Můj první článek"
-tagy = ["tag1", "tag2", "tag3"]
-datum = "20.1.2019"  # dobrovolné a libovolné. Jelikož "datum" je singulár  od "data", lze použít jakkoliv :^)
+nazev = "Můj první předmět"
+zodpovedna_osoba = "Lukáš Hozda"
+# ↑ pokud možno, mělo by odpovídat jménu, emailu nebo usernamu některého vyučujícícho
+#   pokud je autorem někdo jiný, zadejte email.
+bio = "krátký popisek předmětu"
 
 +++
 
-# Můj první článek
+## Můj první předmět
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 In varius lacinia risus eu vehicula. Vestibulum consectetur
