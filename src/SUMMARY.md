@@ -1,5 +1,5 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
-- [Předmět 1](./predmety/predmet1/subject.md)
-	- [Článek 1](./predmety/predmet1/material1.md)
+- [Index](./index.md)
+- [Ostatní cizojazyčné materiály](./predmety/ostatni_cizojazycne/subject.md)
+	- [Úvod](./predmety/ostatni_cizojazycne/uvod.md)
